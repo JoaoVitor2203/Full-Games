@@ -1,0 +1,32 @@
+{
+  "name": "BotFullGames",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^11.4.2",
+    "dispatcher": "0.0.2",
+    "fs": "0.0.1-security",
+    "jimp": "^0.6.0",
+    "map": "^1.0.1",
+    "mathjs": "^5.7.0",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.2.2",
+    "mongoose": "^5.4.19",
+    "ms": "^2.1.1",
+    "os": "^0.1.1",
+    "random-puppy": "^1.1.0",
+    "request-promise": "^4.2.4",
+    "simple-youtube-api": "^5.1.1",
+    "superagent": "^4.1.0",
+    "weather-js": "^2.0.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
